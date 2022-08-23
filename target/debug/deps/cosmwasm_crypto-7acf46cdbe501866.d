@@ -1,0 +1,11 @@
+/home/owner/Рабочий стол/apps/cw-template/target/debug/deps/cosmwasm_crypto-7acf46cdbe501866.rmeta: /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/lib.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/ed25519.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/errors.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/identity_digest.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/secp256k1.rs
+
+/home/owner/Рабочий стол/apps/cw-template/target/debug/deps/libcosmwasm_crypto-7acf46cdbe501866.rlib: /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/lib.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/ed25519.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/errors.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/identity_digest.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/secp256k1.rs
+
+/home/owner/Рабочий стол/apps/cw-template/target/debug/deps/cosmwasm_crypto-7acf46cdbe501866.d: /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/lib.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/ed25519.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/errors.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/identity_digest.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/secp256k1.rs
+
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/lib.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/ed25519.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/errors.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/identity_digest.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-crypto-1.0.0/src/secp256k1.rs:

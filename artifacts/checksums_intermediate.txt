@@ -1,0 +1,2 @@
+9afb521bc9849b30ba5ddadaed097a9e485efd69d3f8b9941fdf2ca08fd81d02  ./target/wasm32-unknown-unknown/release/bank_contract.wasm
+e67ff3c9c3239b1ad255e2e27f0cc267e4e049baa1f6d3291efa905e002eb1f2  ./target/wasm32-unknown-unknown/release/simple_contract.wasm

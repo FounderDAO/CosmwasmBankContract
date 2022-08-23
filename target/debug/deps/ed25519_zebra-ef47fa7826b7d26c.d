@@ -1,0 +1,11 @@
+/home/owner/Рабочий стол/apps/cw_anor/target/debug/deps/ed25519_zebra-ef47fa7826b7d26c.rmeta: /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/lib.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/batch.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/error.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/signature.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/signing_key.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/verification_key.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/../README.md
+
+/home/owner/Рабочий стол/apps/cw_anor/target/debug/deps/ed25519_zebra-ef47fa7826b7d26c.d: /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/lib.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/batch.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/error.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/signature.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/signing_key.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/verification_key.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/../README.md
+
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/lib.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/batch.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/error.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/signature.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/signing_key.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/verification_key.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-zebra-3.0.0/src/../README.md:

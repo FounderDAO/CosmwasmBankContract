@@ -1,0 +1,2 @@
+bfd64db66c96af0358cfac8bad73bcd027d43ff607548c4949a5eef7e5465436  bank_contract.wasm
+9a05a125e8f5263e535d5116117028e81aa49dd70d23794db280c1da5606aeed  simple_contract.wasm

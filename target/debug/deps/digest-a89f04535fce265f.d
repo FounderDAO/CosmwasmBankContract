@@ -1,0 +1,13 @@
+/home/owner/Рабочий стол/apps/cw-template/target/debug/deps/digest-a89f04535fce265f.rmeta: /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/lib.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/digest.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/dyn_digest.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/errors.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/fixed.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/variable.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/xof.rs
+
+/home/owner/Рабочий стол/apps/cw-template/target/debug/deps/libdigest-a89f04535fce265f.rlib: /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/lib.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/digest.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/dyn_digest.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/errors.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/fixed.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/variable.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/xof.rs
+
+/home/owner/Рабочий стол/apps/cw-template/target/debug/deps/digest-a89f04535fce265f.d: /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/lib.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/digest.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/dyn_digest.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/errors.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/fixed.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/variable.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/xof.rs
+
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/lib.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/digest.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/dyn_digest.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/errors.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/fixed.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/variable.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.9.0/src/xof.rs:

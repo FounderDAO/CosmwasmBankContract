@@ -1,0 +1,13 @@
+/home/owner/Рабочий стол/apps/cw-template/target/debug/deps/spki-40b4a26bc826595b.rmeta: /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/lib.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/algorithm.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/error.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/spki.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/traits.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/document.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/../README.md
+
+/home/owner/Рабочий стол/apps/cw-template/target/debug/deps/libspki-40b4a26bc826595b.rlib: /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/lib.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/algorithm.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/error.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/spki.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/traits.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/document.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/../README.md
+
+/home/owner/Рабочий стол/apps/cw-template/target/debug/deps/spki-40b4a26bc826595b.d: /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/lib.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/algorithm.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/error.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/spki.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/traits.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/document.rs /home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/../README.md
+
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/lib.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/algorithm.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/error.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/spki.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/traits.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/document.rs:
+/home/owner/.cargo/registry/src/github.com-1ecc6299db9ec823/spki-0.5.4/src/../README.md:
